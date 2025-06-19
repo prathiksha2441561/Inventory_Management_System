@@ -31,8 +31,8 @@ Database Integration (JDBC):
 - Threads simulate background operations like logging and updates.
 
 ## Tech Stack
-- Java (JDK 8+)
-- MySQL 5.7/8.0+
+- Java 
+- MySQL
 - Swing (Java GUI)
 - JDBC
 - Git & GitHub
