@@ -36,4 +36,3 @@ Database Integration (JDBC):
 - Swing (Java GUI)
 - JDBC
 - Git & GitHub
-- 
